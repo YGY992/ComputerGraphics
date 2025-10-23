@@ -1,0 +1,8 @@
+﻿  graphicsclass.cpp
+C:\Users\38\Downloads\PA1_C177006\CG-05-01-PhongLight-vs2022\Framework\graphicsclass.cpp(321,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  1 of 413 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Framework.vcxproj -> C:\Users\38\Downloads\PA1_C177006\CG-05-01-PhongLight-vs2022\Release\Framework.exe
